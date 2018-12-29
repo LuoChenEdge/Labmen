@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
 
+人没有牺牲的话就什么都得不到，为了得到什么东西，就必须付出同等的代价
 You can use the [editor on GitHub](https://github.com/LuoChenEdge/Labmen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
